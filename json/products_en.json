@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Black Garlic 150g",
+    "price": "Tax included ¥1,880",
+    "description": "Black garlic fermented and matured under high temperature and humidity, made from garlic cultivated in Wakayama Prefecture",
+    "usage": "Eat 1 to 3 cloves a day after peeling. Eating in large quantities may loosen the stomach",
+    "image_path": "src/黒にんにく150g.jpg",
+    "audio_paths": "src/en_voice/黒にんにく150g_en.mp3"
+  },
+  {
+    "name": "Grated Sansho Pepper",
+    "price": "Tax included ¥1,100",
+    "description": "Paste made from fresh sansho pepper, used as a condiment for various dishes instead of wasabi",
+    "usage": "Use with sashimi, zaru soba, cold tofu, natto, grilled meat, sausages, etc.",
+    "image_path": "src/おろし山椒.webp",
+    "audio_paths": "src/en_voice/おろし山椒_en.mp3"
+  },
+  {
+    "name": "Hand-Picked Mortar Ground Powdered Sansho Pepper (Bottle)",
+    "price": "Tax included ¥1,100",
+    "description": "Powdered sansho pepper, rich in aroma and flavor, made from hand-picked, dried sansho berries ground in a mortar",
+    "usage": "Sprinkle on kabayaki, teriyaki, grilled chicken, simmered fish, fried chicken, Chinese cuisine, etc.",
+    "image_path": "src/手摘み臼挽き粉山椒.webp",
+    "audio_paths": "src/en_voice/手摘み臼挽き粉山椒瓶入り_en.mp3"
+  },
+  {
+    "name": "Hand-Picked Mortar Ground Powdered Sansho Pepper (Bag)",
+    "price": "Tax included ¥580",
+    "description": "Powdered sansho pepper made from hand-picked, meticulously selected, dried sansho berries ground in a mortar",
+    "usage": "Sprinkle on kabayaki, teriyaki, grilled chicken, simmered fish, fried chicken, Chinese cuisine, etc.",
+    "image_path": "src/粉山椒袋入り.webp",
+    "audio_paths": "src/en_voice/手摘み臼挽き粉山椒袋入り_en.mp3"
+  },
+  {
+    "name": "Kio Sansho Dried Berries (Late Harvest) ＜No Branches＞",
+    "price": "Tax included ¥750",
+    "description": "Early harvest dried sansho berries. Features a soft spiciness and sweet aroma",
+    "usage": "Use with meat and fish dishes, as well as in pasta and salad dressings",
+    "image_path": "src/紀奥山椒.webp",
+    "audio_paths": "src/en_voice/紀奥山椒乾燥粒後期枝無し_en.mp3"
+  },
+  {
+    "name": "Fully Ripe Mortar Ground Red Sansho Pepper",
+    "price": "Tax included ¥1,700",
+    "description": "Powdered sansho pepper with a unique spiciness, made from fully ripe red sansho berries hand-picked and dried, then ground in a mortar",
+    "usage": "Use with kabayaki, teriyaki, grilled chicken, simmered fish, fried chicken, Chinese cuisine, etc.",
+    "image_path": "src/赤山椒.webp",
+    "audio_paths": "src/en_voice/完熟臼挽き赤山椒_en.mp3"
+  },
+  {
+    "name": "Kio Sansho Dried Berry Sansho M (Mid-Season) ＜With Seeds & Branches＞",
+    "price": "Tax included ¥1,700",
+    "description": "Mid-season harvested dried berry sansho, characterized by a sweet citrus aroma and soft spiciness",
+    "usage": "Use as seasoning for meat and fish, as well as in pasta and salad dressings",
+    "image_path": "src/紀奥山椒種・枝付.webp",
+    "audio_paths": "src/en_voice/紀奥山椒乾燥粒山椒M中期種枝付_en.mp3"
+  },
+  {
+    "name": "Kio Sansho Dried Berry Sansho L (Late Season) ＜With Seeds & Branches＞",
+    "price": "Tax included ¥1,700",
+    "description": "Late-season harvested dried berry sansho, noted for its strong citrus aroma and spiciness",
+    "usage": "Use as seasoning for meat and fish, as well as in pasta and salad dressings",
+    "image_path": "src/紀奥山椒L種・枝付.webp",
+    "audio_paths": "src/en_voice/紀奥山椒乾燥粒山椒L後期種枝付_en.mp3"
+  },
+  {
+    "name": "Kio Sansho Dried Berry Sansho (Fully Ripe Red) ＜With Seeds & Branches＞",
+    "price": "Tax included ¥2,100",
+    "description": "Dried fully ripe red sansho berries, featuring an elegant aroma and spiciness",
+    "usage": "Use as seasoning for meat and fish, as well as in pasta and salad dressings",
+    "image_path": "src/紀奥山椒完熟赤種・枝付.webp",
+    "audio_paths": "src/en_voice/紀奥山椒乾燥粒山椒完熟赤種枝付_en.mp3"
+  },
+  {
+    "name": "Dried Wood Ear Mushroom - White Slice",
+    "price": "Tax included ¥880",
+    "description": "A rare and premium ingredient, the white wood ear mushroom, difficult to cultivate.",
+    "usage": "Use in various dishes such as sashimi, salads, and soups",
+    "image_path": "src/乾燥きくらげ白スライス.png",
+    "audio_paths": "src/en_voice/乾燥きくらげ白スライス_en.mp3"
+  },
+  {
+    "name": "Dried Wood Ear Mushroom - Aarage Slice",
+    "price": "Tax included ¥700",
+    "description": "Dried sliced aarage wood ear mushrooms, focusing on domestic production",
+    "usage": "Use in various dishes such as sashimi, salads, and soups",
+    "image_path": "src/乾燥きくらげあらげスライス.jpg",
+    "audio_paths": "src/en_voice/乾燥きくらげあらげスライス_en.mp3"
+  },
+  {
+    "name": "Dried Wood Ear Mushroom - White Whole",
+    "price": "Tax included ¥700",
+    "description": "A rare and premium ingredient, the white wood ear mushroom, difficult to cultivate.",
+    "usage": "Use in various dishes such as sashimi, salads, and soups",
+    "image_path": "src/乾燥きくらげ白ホール.jpg",
+    "audio_paths": "src/en_voice/乾燥きくらげ白ホール_en.mp3"
+  },
+  {
+    "name": "Dried Wood Ear Mushroom - Black Whole",
+    "price": "Tax included ¥700",
+    "description": "Dried sliced aarage wood ear mushrooms, focusing on domestic production",
+    "usage": "Use in various dishes such as sashimi, salads, and soups",
+    "image_path": "src/乾燥きくらげ黒ホール.png",
+    "audio_paths": "src/en_voice/乾燥きくらげ黒ホール_en.mp3"
+  },
+  {
+    "name": "Ushiguchi's Yuzu Ponzu Sauce",
+    "price": "Tax included ¥1,500",
+    "description": "Flavorful ponzu sauce made with yuzu citrus from Wakayama, harvested from natural seedlings",
+    "usage": "Use with seafood, grilled meat, dumplings, hot tofu, etc.",
+    "image_path": "src/ゆずぽんず.jpg",
+    "audio_paths": "src/en_voice/後口さんの実生みしょう柚子手作りゆずぽんず_en.mp3"
+  },
+  {
+    "name": "NAGO COLA",
+    "price": "Tax included ¥1,980",
+    "description": "Additive-free and color-free craft cola, using citrus fruits from Wakayama Prefecture",
+    "usage": "Enjoy mixed with carbonated water, hot water, or alcohol",
+    "image_path": "src/NAGOCOLA.jpg",
+    "audio_paths": "src/en_voice/NAGOCOLA_en.mp3"
+  },
+  {
+    "name": "Nanki-Kumano Honey",
+    "price": "Tax included ¥6,480",
+    "description": "Natural honey with a deep flavor, collected by wild bees, representing less than 1% of market share",
+    "usage": "Add to bread, yogurt, or enjoy as it is",
+    "image_path": "src/南紀熊野蜜.jpg",
+    "audio_paths": "src/en_voice/南紀熊野蜜_en.mp3"
+  },
+  {
+    "name": "Yurika Flower 80g",
+    "price": "Tax included ¥430",
+    "description": "Exquisite taste jelly candy made with granulated sugar, produced in small batches by hand",
+    "usage": "Enjoy as it is, perfect for tea time or as a snack",
+    "image_path": "src/柚里花.webp",
+    "audio_paths": "src/en_voice/柚里花80g_en.mp3"
+  },
+  {
+    "name": "vege like's Concentrated Spiciness! Organic Ginger Powder",
+    "price": "Tax included ¥1,300",
+    "description": "Ideal for cold prevention, just add to daily meals for a warming effect",
+    "usage": "Use in hot pots, vegetable stir-fries, as a finishing spice for meat dishes, or as a spice in chai and milk tea",
+    "image_path": "src/生姜パウダー.webp",
+    "audio_paths": "src/en_voice/vege likeの辛さ凝縮無農薬生姜パウダー_en.mp3"
+  },
+  {
+    "name": "Shiitake Mushroom Flakes",
+    "price": "Tax included ¥400",
+    "description": "Made from domestically harvested shiitake mushrooms, freshly picked and minced before drying",
+    "usage": "Eat as is, use in nursing and baby food, or as seasoning and topping in various dishes",
+    "image_path": "src/しいたけ節.png",
+    "audio_paths": "src/en_voice/しいたけ節_en.mp3"
+  },
+  {
+    "name": "Hassaku Jam 85g",
+    "price": "Tax included ¥700",
+    "description": "Made with Hassaku confit and cut fruits, offering a fruity flavor and bitterness. Citrus fruits cultivated in the mountainous areas of Wakayama are known for their rich taste and long-lasting quality",
+    "usage": "Use with meat dishes, cheese, mashed potatoes, sandwiches, etc.",
+    "image_path": "src/ハッサクのジャム.jpg",
+    "audio_paths": "src/en_voice/ハッサクのジャム85g_en.mp3"
+  },
+  {
+    "name": "Dog Food (Deer Bone) for Pets",
+    "price": "Tax included ¥1,500",
+    "description": "High-protein, low-fat pet food made with deer bones from Wakayama Prefecture",
+    "usage": "Give as a treat as is",
+    "image_path": "src/鹿骨ドックフード.jpg",
+    "audio_paths": "src/en_voice/ペットフード犬用ドッグフード鹿骨_en.mp3"
+  },
+  {
+    "name": "Dog Food (Deer Meat Spare Ribs) 50g for Pets",
+    "price": "Tax included ¥1,500",
+    "description": "High-protein, low-fat pet food made with deer meat from Wakayama Prefecture",
+    "usage": "Give as a treat as is",
+    "image_path": "src/鹿骨スペアリブドッグフード.jpg",
+    "audio_paths": "src/en_voice/ペットフード犬用ドッグフード鹿肉スペアリブ50g_en.mp3"
+  },
+  {
+    "name": "Dog Food (Deer Meat Jerky) 50g for Pets",
+    "price": "Tax included ¥1,500",
+    "description": "High-protein, low-fat jerky for pets, made with deer meat from Wakayama Prefecture",
+    "usage": "Give as a treat as is",
+    "image_path": "src/鹿肉ジャーキー.jpg",
+    "audio_paths": "src/en_voice/ペットフード犬用ドッグフード鹿肉ジャーキー50g_en.mp3"
+  },
+  {
+    "name": "Additive-Free Katsuobushi Sprinkle for Dogs and Cats 30g",
+    "price": "Tax included ¥1,500",
+    "description": "Richly flavored katsuobushi (bonito flakes) created by repeatedly smoking and fermenting over cherry wood",
+    "usage": "Sprinkle on rice, use in soups or in making treats",
+    "image_path": "src/かつおふりかけペットフード.webp",
+    "audio_paths": "src/en_voice/ペットフード愛犬愛猫用無添加かつおふりかけ30g_en.mp3"
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "name": "검은 마늘 150g",
+    "price": "세금 포함¥1,880",
+    "description": "와카야마 현산 자체 재배 마늘을 고온 다습에서 발효 숙성시킨 검은 마늘",
+    "usage": "하루에 1~3조각을 껍질을 벗겨 먹는다. 많이 먹으면 배가 느슨해질 수 있음",
+    "image_path": "src/黒にんにく150g.jpg",
+    "audio_paths": "src/kr_voice/黒にんにく150g_kr.mp3",
+    "caption": ""
+  },
+  {
+    "name": "생산초",
+    "price": "세금 포함¥1,100",
+    "description": "생 산초를 페이스트 상태로 만들어 와사비 대신 다양한 요리의 양념으로",
+    "usage": "회, 쫄면, 냉두부, 낫토, 구이, 소시지 등에 사용",
+    "image_path": "src/おろし山椒.webp",
+    "audio_paths": "src/kr_voice/おろし山椒_kr.mp3"
+  },
+  {
+    "name": "손 따기 우스방기 가루산초 병입",
+    "price": "세금 포함¥1,100",
+    "description": "손 따기된 건조 산초를 우스에서 방기해 향이 높고 풍미가 풍부한 가루산초",
+    "usage": "장어구이, 데리야끼, 야키토리, 조림어, 카라아게, 중식 등에 뿌려 먹음",
+    "image_path": "src/手摘み臼挽き粉山椒.webp",
+    "audio_paths": "src/kr_voice/手摘み臼挽き粉山椒瓶入り_kr.mp3"
+  },
+  {
+    "name": "손 따기 우스방기 가루산초 봉지입",
+    "price": "세금 포함¥580",
+    "description": "손 따기 엄선된 건조 산초를 우스에서 방기해 풍미가 풍부한 가루산초",
+    "usage": "장어구이, 데리야끼, 야키토리, 조림어, 카라아게, 중식에 뿌려 먹음",
+    "image_path": "src/粉山椒袋入り.webp",
+    "audio_paths": "src/kr_voice/手摘み臼挽き粉山椒袋入り_kr.mp3"
+  },
+  {
+    "name": "기오 산초 건조알（후기）＜가지 없음＞",
+    "price": "세금 포함￥750",
+    "description": "조기 수확한 건조 산초. 부드러운 매운맛과 달콤한 향이 특징.",
+    "usage": "고기나 생선 요리, 파스타나 샐러드 드레싱에 사용",
+    "image_path": "src/紀奥山椒.webp",
+    "audio_paths": "src/kr_voice/紀奥山椒乾燥粒後期枝無し_kr.mp3"
+  },
+  {
+    "name": "완숙 우스방기 붉은산초",
+    "price": "세금 포함￥1,700",
+    "description": "완숙된 붉은 산초를 손 따기 건조하고 우스에서 방기해 특별한 매운맛의 가루산초",
+    "usage": "장어구이, 데리야끼, 야키토리, 조림어, 카라아게, 중식에 사용",
+    "image_path": "src/赤山椒.webp",
+    "audio_paths": "src/kr_voice/完熟臼挽き赤山椒_kr.mp3"
+  },
+  {
+    "name": "기오 산초 건조알산초Ｍ（중기）＜씨・가지 부착＞",
+    "price": "세금 포함￥1,700",
+    "description": "한 달 조기 수확한 건조 알산초로, 감귤류의 달콤한 향과 부드러운 매운맛",
+    "usage": "고기나 생선의 조미료, 파스타나 샐러드 드레싱에",
+    "image_path": "src/紀奥山椒種・枝付.webp",
+    "audio_paths": "src/kr_voice/紀奥山椒乾燥粒山椒M中期種枝付_kr.mp3"
+  },
+  {
+    "name": "기오 산초 건조알산초Ｌ（후기）＜씨・가지 부착＞",
+    "price": "세금 포함￥1,700",
+    "description": "일반적인 건조 알산초보다, 감귤류의 강한 향과 매운맛이 특징",
+    "usage": "고기나 생선의 조미료, 파스타나 샐러드 드레싱에 사용",
+    "image_path": "src/紀奥山椒L種・枝付.webp",
+    "audio_paths": "src/kr_voice/紀奥山椒乾燥粒山椒L後期種枝付_kr.mp3"
+  },
+  {
+    "name": "기오 산초 건조알산초（완숙적）＜씨・가지 부착＞",
+    "price": "세금 포함￥2,100",
+    "description": "완숙한 붉은 산초를 건조시켜, 고급스러운 향과 매운맛이 특징",
+    "usage": "고기나 생선의 조미료, 파스타나 샐러드 드레싱에 사용",
+    "image_path": "src/紀奥山椒完熟赤種・枝付.webp",
+    "audio_paths": "src/kr_voice/紀奥山椒乾燥粒山椒完熟赤種枝付_kr.mp3"
+  },
+  {
+    "name": "건조 목이버섯 하얀 슬라이스",
+    "price": "세금 포함￥880",
+    "description": "재배가 어려운 희귀한 고급 식재료, 하얀 목이버섯.",
+    "usage": "회, 샐러드, 수프 등 다양한 요리에",
+    "image_path": "src/乾燥きくらげ白スライス.png",
+    "audio_paths": "src/kr_voice/乾燥きくらげ白スライス_kr.mp3"
+  },
+  {
+    "name": "건조 목이버섯 아라게 슬라이스",
+    "price": "세금 포함￥700",
+    "description": "국산에 고집한 아라게 목이버섯의 건조품을 슬라이스 형태로 제공",
+    "usage": "회, 샐러드, 수프 등 다양한 요리에",
+    "image_path": "src/乾燥きくらげあらげスライス.jpg",
+    "audio_paths": "src/kr_voice/乾燥きくらげあらげスライス_kr.mp3"
+  },
+  {
+    "name": "건조 목이버섯 하얀 홀",
+    "price": "세금 포함￥700",
+    "description": "재배가 어려운 희귀한 고급 식재료, 하얀 목이버섯.",
+    "usage": "회, 샐러드, 수프 등 다양한 요리에",
+    "image_path": "src/乾燥きくらげ白ホール.jpg",
+    "audio_paths": "src/kr_voice/乾燥きくらげ白ホール_kr.mp3"
+  },
+  {
+    "name": "건조 목이버섯 검은 홀",
+    "price": "세금 포함￥700",
+    "description": "국산에 고집한 아라게 목이버섯의 건조품을 슬라이스 형태로 제공",
+    "usage": "회, 샐러드, 수프 등 다양한 요리에",
+    "image_path": "src/乾燥きくらげ黒ホール.png",
+    "audio_paths": "src/kr_voice/乾燥きくらげ黒ホール_kr.mp3"
+  },
+  {
+    "name": "후쿠치씨의 실생（미쇼）유자 수제 유자폰즈",
+    "price": "세금 포함￥1,500",
+    "description": "와카야마산 실생 유자를 사용한 풍미가 풍부한 폰즈",
+    "usage": "해산물 요리, 구이, 만두, 두부찌개 등에 사용",
+    "image_path": "src/ゆずぽんず.jpg",
+    "audio_paths": "src/kr_voice/後口さんの実生みしょう柚子手作りゆずぽんず_kr.mp3"
+  },
+  {
+    "name": "NAGO COLA",
+    "price": "세금 포함1,980円",
+    "description": "첨가물 무첨가・무색소로, 와카야마현산 감귤류 사용",
+    "usage": "탄산수로 타서 마시거나, 뜨거운 물이나 술과 섞어서 즐길 수 있음",
+    "image_path": "src/NAGOCOLA.jpg",
+    "audio_paths": "src/kr_voice/NAGOCOLA_kr.mp3"
+  },
+  {
+    "name": "난키 쿠마노 꿀",
+    "price": "세금 포함6,480円",
+    "description": "유통 점유율 1% 미만, 야생 꿀벌이 모은 깊은 맛의 자연 꿀",
+    "usage": "빵이나 요구르트에 넣거나, 그대로 맛보기",
+    "image_path": "src/南紀熊野蜜.jpg",
+    "audio_paths": "src/kr_voice/南紀熊野蜜_kr.mp3"
+  },
+  {
+    "name": "유리카 80g",
+    "price": "세금 포함￥430",
+    "description": "그래뉼 설탕을 사용한 고급스러운 맛, 수제 소량 생산",
+    "usage": "그대로 즐기거나, 차 접대나 스낵으로",
+    "image_path": "src/柚里花.webp",
+    "audio_paths": "src/kr_voice/柚里花80g_kr.mp3"
+  },
+  {
+    "name": "vege like의 매운맛 집중! 무농약 생강 파우더",
+    "price": "세금 포함￥1,300",
+    "description": "추위 대책에 최적, 매일의 식사에 추가만으로 온난 활동 효과",
+    "usage": "전골, 야채볶음, 고기 요리 마무리, 차이나 밀크티의 스파이스로 사용 가능",
+    "image_path": "src/生姜パウダー.webp",
+    "audio_paths": "src/kr_voice/vege likeの辛さ凝縮無農薬生姜パウダー_kr.mp3"
+  },
+  {
+    "name": "표고버섯 절",
+    "price": "세금 포함￥400",
+    "description": "국산 표고버섯 사용, 아침에 따른 표고버섯을 민찌로 만들어 건조",
+    "usage": "그대로 먹거나, 요양식이나 이유식 재료로, 요리의 양념이나 토핑으로 사용 가능",
+    "image_path": "src/しいたけ節.png",
+    "audio_paths": "src/kr_voice/しいたけ節_kr.mp3"
+  },
+  {
+    "name": "하사쿠 잼 85g",
+    "price": "세금 포함￥700",
+    "description": "하사쿠의 콩피와 컷 과일을 사용, 과일향과 쓴맛. 와카야마의 산간지에서 재배되는 감귤류는, 진한 맛과 오래가는 품질이 특징입니다​",
+    "usage": "고기 요리, 치즈, 마쉬포테이토, 샌드위치 등에",
+    "image_path": "src/ハッサクのジャム.jpg",
+    "audio_paths": "src/kr_voice/ハッサクのジャム85g_kr.mp3"
+  },
+  {
+    "name": "펫푸드〖개용〗독푸드（사슴뼈）",
+    "price": "세금 포함￥1,500",
+    "description": "와카야마현산 사슴뼈를 사용한 고단백・저지방의 펫푸드",
+    "usage": "그대로 간식으로 주기",
+    "image_path": "src/鹿骨ドックフード.jpg",
+    "audio_paths": "src/kr_voice/ペットフード犬用ドッグフード鹿骨_kr.mp3"
+  },
+  {
+    "name": "펫푸드〖개용〗독푸드（사슴고기 스페어립）50g",
+    "price": "세금 포함￥1,500",
+    "description": "와카야마현산 사슴고기를 사용한 고단백・저지방의 펫푸드",
+    "usage": "그대로 간식으로 주기",
+    "image_path": "src/鹿骨スペアリブドッグフード.jpg",
+    "audio_paths": "src/kr_voice/ペットフード犬用ドッグフード鹿肉スペアリブ50g_kr.mp3"
+  },
+  {
+    "name": "펫푸드〖개용〗독푸드(사슴고기 져키) 50g",
+    "price": "세금 포함 ￥1,500",
+    "description": "와카야마현 산의 사슴고기를 사용한 고탄수화물・저지방의 펫용 져키",
+    "usage": "그대로 간식으로 제공",
+    "image_path": "src/鹿肉ジャーキー.jpg",
+    "audio_paths": "src/kr_voice/ペットフード犬用ドッグフード鹿肉ジャーキー50g_kr.mp3"
+  },
+  {
+    "name": "펫푸드 애견・애묘용 무첨가 가츠오부시 30g",
+    "price": "세금 포함 ￥1,500",
+    "description": "벚나무로 천천히 훈제하고 숙성을 거듭하여 풍미가 풍부한 가츠오부시 제작",
+    "usage": "밥에 뿌려주거나, 수프나 간식 만들기에 사용",
+    "image_path": "src/かつおふりかけペットフード.webp",
+    "audio_paths": "src/kr_voice/ペットフード愛犬愛猫用無添加かつおふりかけ30g_kr.mp3"
+  }
+]

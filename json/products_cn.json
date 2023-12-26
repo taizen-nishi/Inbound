@@ -1,0 +1,195 @@
+[
+  {
+    "name": "黑蒜150g",
+    "price": "含税¥1,880",
+    "description": "和歌山县产，自家栽培的大蒜，经过高温多湿条件发酵和成熟处理的黑蒜",
+    "usage": "每日食用1到3片，剥皮后食用。过量食用可能会导致腹泻",
+    "image_path": "src/黒にんにく150g.jpg",
+    "audio_paths": "src/cn_voice/黒にんにく150g_cn.mp3",
+    "caption": ""
+  },
+  {
+    "name": "山椒酱",
+    "price": "含税¥1,100",
+    "description": "将生山椒制成糊状，可作为多种料理的佐料，代替芥末使用",
+    "usage": "适用于生鱼片、荞麦面、冷豆腐、纳豆、烤肉、香肠等",
+    "image_path": "src/おろし山椒.webp",
+    "audio_paths": "src/cn_voice/おろし山椒_cn.mp3"
+  },
+  {
+    "name": "手摘臼磨粉山椒 瓶装",
+    "price": "含税¥1,100",
+    "description": "手摘的干燥实山椒用臼磨成粉，香气浓郁，风味丰富",
+    "usage": "撒在烤鳗鱼、照烧、烤鸡、煮鱼、炸鸡、中式料理等上面",
+    "image_path": "src/手摘み臼挽き粉山椒.webp",
+    "audio_paths": "src/cn_voice/手摘み臼挽き粉山椒瓶入り_cn.mp3"
+  },
+  {
+    "name": "手摘臼磨粉山椒 袋装",
+    "price": "含税¥580",
+    "description": "经手摘精选的干燥实山椒用臼磨成粉，风味丰富",
+    "usage": "撒在烤鳗鱼、照烧、烤鸡、煮鱼、炸鸡、中式料理上",
+    "image_path": "src/粉山椒袋入り.webp",
+    "audio_paths": "src/cn_voice/手摘み臼挽き粉山椒袋入り_cn.mp3"
+  },
+  {
+    "name": "紀奥山椒 干燥粒（后期）＜无枝＞",
+    "price": "含税￥750",
+    "description": "早期收获的干燥山椒，具有柔和的辣味和甜美的香气",
+    "usage": "用于肉类或鱼类料理，意大利面或沙拉的调味",
+    "image_path": "src/紀奥山椒.webp",
+    "audio_paths": "src/cn_voice/紀奥山椒乾燥粒後期枝無し_cn.mp3"
+  },
+  {
+    "name": "完熟臼磨红山椒",
+    "price": "含税￥1,700",
+    "description": "将完熟的红山椒手摘干燥后用臼磨成粉，具有独特的辣味",
+    "usage": "用于烤鳗鱼、照烧、烤鸡、煮鱼、炸鸡、中式料理",
+    "image_path": "src/赤山椒.webp",
+    "audio_paths": "src/cn_voice/完熟臼挽き赤山椒_cn.mp3"
+  },
+  {
+    "name": "紀奥山椒 干燥粒山椒Ｍ（中期）＜带种子和枝＞",
+    "price": "含税￥1,700",
+    "description": "提前一个月收获的干燥粒山椒，具有柑橘系的甜香和柔和辣味",
+    "usage": "用于肉类和鱼类的调味，意大利面或沙拉调味",
+    "image_path": "src/紀奥山椒種・枝付.webp",
+    "audio_paths": "src/cn_voice/紀奥山椒乾燥粒山椒M中期種枝付_cn.mp3"
+  },
+  {
+    "name": "紀奥山椒 干燥粒山椒Ｌ（后期）＜带种子和枝＞",
+    "price": "含税￥1,700",
+    "description": "比一般干燥粒山椒更具柑橘系的浓郁香气和辣味",
+    "usage": "用于肉类和鱼类的调味，意大利面或沙拉调味",
+    "image_path": "src/紀奥山椒L種・枝付.webp",
+    "audio_paths": "src/cn_voice/紀奥山椒乾燥粒山椒L後期種枝付_cn.mp3"
+  },
+  {
+    "name": "紀奥山椒 干燥粒山椒（完熟红）＜带种子和枝＞",
+    "price": "含税￥2,100",
+    "description": "将完熟的红山椒干燥处理，具有高雅的香味和辣味",
+    "usage": "用于肉类和鱼类的调味，意大利面或沙拉调味",
+    "image_path": "src/紀奥山椒完熟赤種・枝付.webp",
+    "audio_paths": "src/cn_voice/紀奥山椒乾燥粒山椒完熟赤種枝付_cn.mp3"
+  },
+  {
+    "name": "干燥木耳 白 切片",
+    "price": "含税￥880",
+    "description": "栽培难度高的稀有高档食材，白色木耳",
+    "usage": "适用于生鱼片、沙拉、汤等多种料理",
+    "image_path": "src/乾燥きくらげ白スライス.png",
+    "audio_paths": "src/cn_voice/乾燥きくらげ白スライス_cn.mp3"
+  },
+  {
+    "name": "干燥木耳 切片",
+    "price": "含税￥700",
+    "description": "坚持国产，提供切片形状的干燥木耳",
+    "usage": "适用于生鱼片、沙拉、汤等多种料理",
+    "image_path": "src/乾燥きくらげあらげスライス.jpg",
+    "audio_paths": "src/cn_voice/乾燥きくらげあらげスライス_cn.mp3"
+  },
+  {
+    "name": "干燥木耳 白 整片",
+    "price": "含税￥700",
+    "description": "栽培难度高的稀有高档食材，白色木耳",
+    "usage": "适用于生鱼片、沙拉、汤等多种料理",
+    "image_path": "src/乾燥きくらげ白ホール.jpg",
+    "audio_paths": "src/cn_voice/乾燥きくらげ白ホール_cn.mp3"
+  },
+  {
+    "name": "干燥木耳 黑 整片",
+    "price": "含税￥700",
+    "description": "坚持国产，提供切片形状的干燥木耳",
+    "usage": "适用于生鱼片、沙拉、汤等多种料理",
+    "image_path": "src/乾燥きくらげ黒ホール.png",
+    "audio_paths": "src/cn_voice/乾燥きくらげ黒ホール_cn.mp3"
+  },
+  {
+    "name": "実生柚子手工制柚子酱油",
+    "price": "含税￥1,500",
+    "description": "使用和歌山产的実生柚子制成的风味丰富的柚子酱油",
+    "usage": "适用于海鲜料理、烤肉、饺子、豆腐汤等",
+    "image_path": "src/ゆずぽんず.jpg",
+    "audio_paths": "src/cn_voice/後口さんの実生みしょう柚子手作りゆずぽんず_cn.mp3"
+  },
+  {
+    "name": "NAGO 可乐",
+    "price": "含税1,980円",
+    "description": "不添加任何添加剂和色素，使用和歌山县产的柑橘类",
+    "usage": "搭配苏打水、热水或酒精饮料饮用",
+    "image_path": "src/NAGOCOLA.jpg",
+    "audio_paths": "src/cn_voice/NAGOCOLA_cn.mp3"
+  },
+  {
+    "name": "南紀熊野蜜",
+    "price": "含税6,480円",
+    "description": "市场流通份额不足1%，由野生蜜蜂采集的深味自然蜜",
+    "usage": "加入面包或酸奶中，或直接食用",
+    "image_path": "src/南紀熊野蜜.jpg",
+    "audio_paths": "src/cn_voice/南紀熊野蜜_cn.mp3"
+  },
+  {
+    "name": "柚里花 80g",
+    "price": "含税￥430",
+    "description": "使用颗粒糖制成的高雅味道，手工小批量生产",
+    "usage": "直接食用，作为茶点或小吃",
+    "image_path": "src/柚里花.webp",
+    "audio_paths": "src/cn_voice/柚里花80g_cn.mp3"
+  },
+  {
+    "name": "vege like 特辣！无农药生姜粉",
+    "price": "含税￥1,300",
+    "description": "适合冷天对策，日常饮食中添加即可享受温暖效果",
+    "usage": "用于火锅、蔬菜炒菜、肉类菜肴的最后调味，也可作为茶或奶茶的香料",
+    "image_path": "src/生姜パウダー.webp",
+    "audio_paths": "src/cn_voice/vege likeの辛さ凝縮無農薬生姜パウダー_cn.mp3"
+  },
+  {
+    "name": "香菇节",
+    "price": "含税￥400",
+    "description": "使用国产香菇，将新鲜采摘的香菇制成碎片并干燥",
+    "usage": "直接食用，作为护理食品或婴儿食品的原料，也可用于料理的调味或作为顶料",
+    "image_path": "src/しいたけ節.png",
+    "audio_paths": "src/cn_voice/しいたけ節_cn.mp3"
+  },
+  {
+    "name": "柚子果酱 85g",
+    "price": "含税￥700",
+    "description": "使用柚子蜜饯和切块水果制成，果味浓郁带有苦味。在和歌山的山区种植的柑橘类，味道浓郁且保质期长",
+    "usage": "搭配肉类料理、奶酪、土豆泥、三明治等",
+    "image_path": "src/ハッサクのジャム.jpg",
+    "audio_paths": "src/cn_voice/ハッサクのジャム85g_cn.mp3"
+  },
+  {
+    "name": "宠物食品〖犬用〗狗粮（鹿骨）",
+    "price": "含税￥1,500",
+    "description": "使用和歌山县产鹿骨制成的高蛋白低脂肪宠物食品",
+    "usage": "直接作为零食喂食",
+    "image_path": "src/鹿骨ドックフード.jpg",
+    "audio_paths": "src/cn_voice/ペットフード犬用ドッグフード鹿骨_cn.mp3"
+  },
+  {
+    "name": "宠物食品〖犬用〗狗粮（鹿肉排骨）50g",
+    "price": "含税￥1,500",
+    "description": "使用和歌山县产鹿肉制成的高蛋白低脂肪宠物食品",
+    "usage": "直接作为零食喂食",
+    "image_path": "src/鹿骨スペアリブドッグフード.jpg",
+    "audio_paths": "src/cn_voice/ペットフード犬用ドッグフード鹿肉スペアリブ50g_cn.mp3"
+  },
+  {
+    "name": "宠物食品〖犬用〗狗粮（鹿肉干）50g",
+    "price": "含税￥1,500",
+    "description": "使用和歌山县产鹿肉制成的高蛋白低脂肪宠物用干肉",
+    "usage": "直接作为零食喂食",
+    "image_path": "src/鹿肉ジャーキー.jpg",
+    "audio_paths": "src/cn_voice/ペットフード犬用ドッグフード鹿肉ジャーキー50g_cn.mp3"
+  },
+  {
+    "name": "猫狗宠物食品 无添加剂鲣鱼鱼糕 30 克",
+    "price": "含税￥1,500",
+    "description": "采用樱桃木，经过慢火熏制和反复调味，味道浓郁",
+    "usage": "撒在米饭上，用于做汤和点心,撒在米饭上，用于做汤和点心",
+    "image_path": "src/かつおふりかけペットフード.webp",
+    "audio_paths": "src/cn_voice/かつおふりかけペットフード_cn.mp3"
+  }
+]

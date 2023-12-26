@@ -1,0 +1,196 @@
+[
+  {
+    "name": "黒にんにく150g",
+    "price": "税込¥1,880",
+    "description": "和歌山県産、自社栽培のにんにくを高温多湿で発酵・熟成させた黒にんにく",
+    "usage": "一日に1〜3片を皮をむいて食べる。大量に食べるとおなかが緩くなる場合あり",
+    "image_path": "src/黒にんにく150g.jpg",
+    "audio_paths": "src/jp_voice/黒にんにく150g_jp.mp3",
+    "caption": ""
+  },
+  {
+    "name": "おろし山椒",
+    "price": "税込¥1,100",
+    "description": "生山椒をペースト状にし、ワサビの代わりに多様な料理の薬味に",
+    "usage": "お刺身、ざる蕎麦、冷奴、納豆、焼肉、ソーセージなどに使用",
+    "image_path": "src/おろし山椒.webp",
+    "audio_paths": "src/jp_voice/おろし山椒_jp.mp3"
+  },
+  {
+    "name": "手摘み臼挽き 粉山椒 瓶入り",
+    "price": "税込¥1,100",
+    "description": "手摘みされた乾燥実山椒を臼で挽き、香り高く風味豊かに仕上げた粉山椒",
+    "usage": "蒲焼、照り焼き、焼き鳥、煮魚、唐揚げ、中華料理などに振りかける",
+    "image_path": "src/手摘み臼挽き粉山椒.webp",
+    "audio_paths": "src/jp_voice/手摘み臼挽き粉山椒瓶入り_jp.mp3"
+  },
+  {
+    "name": "手摘み臼挽き 粉山椒 袋入り",
+    "price": "税込¥580",
+    "description": "手摘み厳選された乾燥実山椒を臼で挽き、風味豊かに仕上げた粉山椒",
+    "usage": "蒲焼、照り焼き、焼き鳥、煮魚、唐揚げ、中華料理に振りかける",
+    "image_path": "src/粉山椒袋入り.webp",
+    "audio_paths": "src/jp_voice/手摘み臼挽き粉山椒袋入り_jp.mp3"
+  },
+  {
+    "name": "紀奥山椒 乾燥粒（後期）＜枝無し＞",
+    "price": "税込￥750",
+    "description": "早期収穫の乾燥山椒。ソフトな辛味と甘い香りが特徴。",
+    "usage": "肉や魚料理、パスタやサラダのドレッシングに使用",
+    "image_path": "src/紀奥山椒.webp",
+    "audio_paths": "src/jp_voice/紀奥山椒乾燥粒後期枝無し_jp.mp3"
+  },
+  {
+    "name": "完熟臼挽き 赤山椒",
+    "price": "税込￥1,700",
+    "description": "完熟した赤山椒を手摘み乾燥し臼で挽き、格別な辛味を持つ粉山椒に",
+    "usage": "蒲焼、照り焼き、焼き鳥、煮魚、唐揚げ、中華料理に使用",
+    "image_path": "src/赤山椒.webp",
+    "audio_paths": "src/jp_voice/完熟臼挽き赤山椒_jp.mp3"
+  },
+  {
+    "name": "紀奥山椒 乾燥粒山椒Ｍ（中期）＜種・枝付＞",
+    "price": "税込￥1,700",
+    "description": "1ヶ月早期に収穫した乾燥粒山椒で、柑橘系の甘い香りとソフトな辛味",
+    "usage": "肉や魚の調味料、パスタやサラダドレッシングに",
+    "image_path": "src/紀奥山椒種・枝付.webp",
+    "audio_paths": "src/jp_voice/紀奥山椒乾燥粒山椒M中期種枝付_jp.mp3"
+  },
+  {
+    "name": "紀奥山椒 乾燥粒山椒Ｌ（後期）＜種・枝付＞",
+    "price": "税込￥1,700",
+    "description": "一般的な乾燥粒山椒より、柑橘系の強い香りと辛味が特徴",
+    "usage": "肉や魚の調味料、パスタやサラダドレッシングに使用",
+    "image_path": "src/紀奥山椒L種・枝付.webp",
+    "audio_paths": "src/jp_voice/紀奥山椒乾燥粒山椒L後期種枝付_jp.mp3"
+  },
+  {
+    "name": "紀奥山椒 乾燥粒山椒（完熟赤）＜種・枝付＞",
+    "price": "税込￥2,100",
+    "description": "完熟した赤山椒を乾燥させ、上品な香りと辛味が特徴",
+    "usage": "肉や魚の調味料、パスタやサラダドレッシングに使用",
+    "image_path": "src/紀奥山椒完熟赤種・枝付.webp",
+    "audio_paths": "src/jp_voice/紀奥山椒乾燥粒山椒完熟赤種枝付_jp.mp3"
+  },
+  {
+    "name": "乾燥きくらげ　白 スライス",
+    "price": "税込￥880",
+    "description": "栽培が難しい希少な高級食材、白いきくらげ。",
+    "usage": "お刺身やサラダ、スープなど様々な料理に",
+    "image_path": "src/乾燥きくらげ白スライス.png",
+    "audio_paths": "src/jp_voice/乾燥きくらげ白スライス_jp.mp3"
+  },
+  {
+    "name": "乾燥きくらげ　あらげ スライス",
+    "price": "税込￥700",
+    "description": "国産にこだわったあらげきくらげの乾燥品をスライス形状で提供",
+    "usage": "お刺身やサラダ、スープなど様々な料理に",
+
+    "image_path": "src/乾燥きくらげあらげスライス.jpg",
+    "audio_paths": "src/jp_voice/乾燥きくらげあらげスライス_jp.mp3"
+  },
+  {
+    "name": "乾燥きくらげ　白 ホール",
+    "price": "税込￥700",
+    "description": "栽培が難しい希少な高級食材、白いきくらげ。",
+    "usage": "お刺身やサラダ、スープなど様々な料理に",
+    "image_path": "src/乾燥きくらげ白ホール.jpg",
+    "audio_paths": "src/jp_voice/乾燥きくらげ白ホール_jp.mp3"
+  },
+  {
+    "name": "乾燥きくらげ　黒 ホール",
+    "price": "税込￥700",
+    "description": "国産にこだわったあらげきくらげの乾燥品をスライス形状で提供",
+    "usage": "お刺身やサラダ、スープなど様々な料理に",
+    "image_path": "src/乾燥きくらげ黒ホール.png",
+    "audio_paths": "src/jp_voice/乾燥きくらげ黒ホール_jp.mp3"
+  },
+  {
+    "name": "後口さんの実生（みしょう）柚子手作りゆずぽんず",
+    "price": "税込￥1,500",
+    "description": "和歌山産の実生柚子を使用した風味豊かなぽん酢",
+    "usage": "魚介料理、焼肉、餃子、湯豆腐等に使用",
+    "image_path": "src/ゆずぽんず.jpg",
+    "audio_paths": "src/jp_voice/後口さんの実生みしょう柚子手作りゆずぽんず_jp.mp3"
+  },
+  {
+    "name": "NAGO COLA",
+    "price": "税込1,980円",
+    "description": "無添加・無着色で、和歌山県産の柑橘類を使用",
+    "usage": "炭酸水で割る、お湯やお酒と割って楽しむ",
+    "image_path": "src/NAGOCOLA.jpg",
+    "audio_paths": "src/jp_voice/NAGOCOLA_jp.mp3"
+  },
+  {
+    "name": "南紀熊野蜜",
+    "price": "税込6,480円",
+    "description": "流通シェア1％未満、野生のミツバチが集めた深い味わいの自然蜜",
+    "usage": "パンやヨーグルトに加える、そのまま味わう",
+    "image_path": "src/南紀熊野蜜.jpg",
+    "audio_paths": "src/jp_voice/南紀熊野蜜_jp.mp3"
+  },
+  {
+    "name": "柚里花 80g",
+    "price": "税込￥430",
+    "description": "グラニュー糖を使った上品な味わい、手作りで少量生産",
+    "usage": "そのまま楽しむ、お茶請けやスナックとして",
+    "image_path": "src/柚里花.webp",
+    "audio_paths": "src/jp_voice/柚里花80g_jp.mp3"
+  },
+  {
+    "name": "vege likeの辛さ凝縮！無農薬生姜パウダー",
+    "price": "税込￥1,300",
+    "description": "冷え対策に最適、毎日の食事に加えるだけで温活効果",
+    "usage": "お鍋、野菜炒め、お肉料理の仕上げ、チャイやミルクティーのスパイスとして使用可能",
+    "image_path": "src/生姜パウダー.webp",
+    "audio_paths": "src/jp_voice/vege likeの辛さ凝縮無農薬生姜パウダー_jp.mp3"
+  },
+  {
+    "name": "しいたけ節",
+    "price": "税込￥400",
+    "description": "国産しいたけ使用、朝採れのしいたけをミンチにして乾燥",
+    "usage": "そのまま食べる、介護食や離乳食の素材として、料理の味付けやトッピングとして使用可能",
+    "image_path": "src/しいたけ節.png",
+    "audio_paths": "src/jp_voice/しいたけ節_jp.mp3"
+  },
+  {
+    "name": "ハッサクのジャム 85g",
+    "price": "税込￥700",
+    "description": "ハッサクのコンフィとカットフルーツを使用、フルーティな風味と苦み。和歌山の山間部で栽培される柑橘類は、濃い味わいと長持ちする品質が特徴です​",
+    "usage": "肉料理、チーズ、マッシュポテト、サンドイッチなどに",
+    "image_path": "src/ハッサクのジャム.jpg",
+    "audio_paths": "src/jp_voice/ハッサクのジャム85g_jp.mp3"
+  },
+  {
+    "name": "ペットフード〖犬用〗ドッグフード（鹿骨）",
+    "price": "税込￥1,500",
+    "description": "和歌山県産の鹿骨を使用した高タンパク・低脂肪のペットフード",
+    "usage": "そのままおやつとして与える",
+    "image_path": "src/鹿骨ドックフード.jpg",
+    "audio_paths": "src/jp_voice/ペットフード犬用ドッグフード鹿骨_jp.mp3"
+  },
+  {
+    "name": "ペットフード〖犬用〗ドッグフード（鹿肉スペアリブ）50g",
+    "price": "税込￥1,500",
+    "description": "和歌山県産の鹿肉を使用した高タンパク・低脂肪のペットフード",
+    "usage": "そのままおやつとして与える",
+    "image_path": "src/鹿骨スペアリブドッグフード.jpg",
+    "audio_paths": "src/jp_voice/ペットフード犬用ドッグフード鹿肉スペアリブ50g_jp.mp3"
+  },
+  {
+    "name": "ペットフード〖犬用〗ドッグフード（鹿肉ジャーキー）50g",
+    "price": "税込￥1,500",
+    "description": "和歌山県産の鹿肉を使用した高タンパク・低脂肪のペット用ジャーキー",
+    "usage": "そのままおやつとして与える",
+    "image_path": "src/鹿肉ジャーキー.jpg",
+    "audio_paths": "src/jp_voice/ペットフード犬用ドッグフード鹿肉ジャーキー50g_jp.mp3"
+  },
+  {
+    "name": "ペットフード愛犬・愛猫用 無添加 かつおふりかけ ３０g",
+    "price": "税込￥1,500",
+    "description": "桜の薪木でじっくりいぶし、ねかしを繰り返すことで風味豊かなかつお節に",
+    "usage": "ごはんにふりかける、スープやおやつ作りに使用",
+    "image_path": "src/かつおふりかけペットフード.webp",
+    "audio_paths": "src/jp_voice/ペットフード愛犬愛猫用無添加かつおふりかけ30g_jp.mp3"
+  }
+]
