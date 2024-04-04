@@ -190,5 +190,54 @@
     "usage": "Sprinkle on rice, use in soups or in making treats",
     "image_path": "src/かつおふりかけペットフード.webp",
     "audio_paths": "src/en_voice/ペットフード愛犬愛猫用無添加かつおふりかけ30g_en.mp3"
+  },
+  {
+    "name": "Wakayama Prefecture Hassaku Peel",
+    "price": "Including tax ¥380",
+    "description": "A confection made with refreshingly fragrant hassaku peel coated in sugar.",
+    "usage": "Also suitable to be consumed with black tea",
+    "image_path": "src/はっさくピール.jpg",
+    "audio_paths": "src/en_voice/はっさくピール.mp3"
+  },
+  {
+    "name": "Japanese Dashi Bottle with Sauce: Bonito Flavor",
+    "price": "Including tax ¥1,500",
+    "description": "A dashi bottle that brings out Japanese-style flavors by just adding your favorite seasonings.",
+    "usage": "By adding soy sauce, ponzu, or other preferred seasonings and leaving it for 1 to 5 days, the dashi will be ready.",
+    "image_path": "src/鰹節.webp",
+    "audio_paths": "src/en_voice/鰹節.mp3"
+  },
+  {
+    "name": "Japanese Dashi Bottle with Sauce: Mackerel Flavor",
+    "price": "Including tax ¥1,500",
+    "description": "A dashi bottle that brings out Japanese-style flavors by just adding your favorite seasonings.",
+    "usage": "By adding soy sauce, ponzu, or other preferred seasonings and leaving it for 1 to 5 days, the dashi will be ready.",
+    "image_path": "src/宗田節.webp",
+    "audio_paths": "src/en_voice/宗田節.mp3"
+  },
+  {
+    "name": "Wakayama Dried Fruit Persimmon",
+    "price": "Including tax ¥500",
+    "description": "Sugar-free dried fruit with the essence of fruit flavors concentrated",
+    "usage": "Bite-sized for easy eating",
+    "image_path": "src/柿.png",
+    "audio_paths": "src/en_voice/柿.mp3"
+  },
+  {
+    "name": "Wakayama Dried Fruit Mandarin",
+    "price": "Including tax ¥500",
+    "description": "Sugar-free dried fruit with the essence of fruit flavors concentrated",
+    "usage": "Enjoy the aroma in black tea",
+    "image_path": "src/ミカン.png",
+    "audio_paths": "src/en_voice/ミカン.mp3"
+  },
+  {
+    "name": "Wakayama Dried Fruit Kiwi",
+    "price": "Including tax ¥500",
+    "description": "Sugar-free dried fruit with the essence of fruit flavors concentrated",
+    "usage": "Perfect as a topping for yogurt or salad",
+    "image_path": "src/キウイ.png",
+    "audio_paths": "src/en_voice/キウイフルーツ.mp3"
   }
+  
 ]

@@ -191,5 +191,53 @@
     "usage": "撒在米饭上，用于做汤和点心,撒在米饭上，用于做汤和点心",
     "image_path": "src/かつおふりかけペットフード.webp",
     "audio_paths": "src/cn_voice/かつおふりかけペットフード_cn.mp3"
-  }
+  },
+  {
+    "name": "和歌山产 哈萨克皮",
+    "price": "含税￥380",
+    "description": "包裹着糖的清新哈萨克皮制成的糖果。",
+    "usage": "加入红茶中食用也很适合",
+    "image_path": "src/はっさくピール.jpg",
+    "audio_paths": "src/cn_voice/はっさくピール.mp3"
+  },
+  {
+    "name": "加入酱汁制成的日式出汁瓶：鲣鱼味",
+    "price": "含税￥1,500",
+    "description": "只需加入喜欢的调味料就能制出日式风味的出汁瓶。",
+    "usage": "将家中的酱油、柚子胡椒、酱汁等调味料加入，放1到5天左右即可得到出汁。",
+    "image_path": "src/鰹節.webp",
+    "audio_paths": "src/cn_voice/鰹節.mp3"
+  },
+  {
+    "name": "加入酱汁制成的日式出汁瓶：宗田鱼味",
+    "price": "含税￥1,500",
+    "description": "只需加入喜欢的调味料就能制出日式风味的出汁瓶。",
+    "usage": "将家中的酱油、柚子胡椒、酱汁等调味料加入，放1到5天左右即可得到出汁。",
+    "image_path": "src/宗田節.webp",
+    "audio_paths": "src/cn_voice/宗田節.mp3"
+  },
+  {
+    "name": "和歌山产 干果 柿子",
+    "price": "含税￥500",
+    "description": "不含糖的干果，果味浓郁",
+    "usage": "一口大小，方便食用",
+    "image_path": "src/柿.png",
+    "audio_paths": "src/cn_voice/柿.mp3"
+  },
+  {
+    "name": "和歌山产 干果 橘子",
+    "price": "含税￥500",
+    "description": "不含糖的干果，果味浓郁",
+    "usage": "加入红茶中享受香气",
+    "image_path": "src/ミカン.png",
+    "audio_paths": "src/cn_voice/ミカン.mp3"
+  },
+  {
+    "name": "和歌山产 干果 猕猴桃",
+    "price": "含税￥500",
+    "description": "不含糖的干果，果味浓郁",
+    "usage": "适合作为酸奶或沙拉的顶料",
+    "image_path": "src/キウイ.png",
+    "audio_paths": "src/cn_voice/キウイフルーツ.mp3"
+  }  
 ]

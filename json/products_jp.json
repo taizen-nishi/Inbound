@@ -1,7 +1,7 @@
 [
   {
     "name": "黒にんにく150g",
-    "price": "税込¥1,880",
+    "price": "税込¥1,500",
     "description": "和歌山県産、自社栽培のにんにくを高温多湿で発酵・熟成させた黒にんにく",
     "usage": "一日に1〜3片を皮をむいて食べる。大量に食べるとおなかが緩くなる場合あり",
     "image_path": "src/黒にんにく150g.jpg",
@@ -114,7 +114,7 @@
     "audio_paths": "src/jp_voice/後口さんの実生みしょう柚子手作りゆずぽんず_jp.mp3"
   },
   {
-    "name": "NAGO COLA",
+    "name": "和歌山産　クラフトコーラ：NAGO COLA",
     "price": "税込1,980円",
     "description": "無添加・無着色で、和歌山県産の柑橘類を使用",
     "usage": "炭酸水で割る、お湯やお酒と割って楽しむ",
@@ -122,7 +122,7 @@
     "audio_paths": "src/jp_voice/NAGOCOLA_jp.mp3"
   },
   {
-    "name": "南紀熊野蜜",
+    "name": "ニホンミツバチの蜂蜜 ：南紀熊野蜜",
     "price": "税込6,480円",
     "description": "流通シェア1％未満、野生のミツバチが集めた深い味わいの自然蜜",
     "usage": "パンやヨーグルトに加える、そのまま味わう",
@@ -130,7 +130,7 @@
     "audio_paths": "src/jp_voice/南紀熊野蜜_jp.mp3"
   },
   {
-    "name": "柚里花 80g",
+    "name": "和歌山産　柚子ゼリー",
     "price": "税込￥430",
     "description": "グラニュー糖を使った上品な味わい、手作りで少量生産",
     "usage": "そのまま楽しむ、お茶請けやスナックとして",
@@ -138,7 +138,7 @@
     "audio_paths": "src/jp_voice/柚里花80g_jp.mp3"
   },
   {
-    "name": "vege likeの辛さ凝縮！無農薬生姜パウダー",
+    "name": "和歌山産　生姜パウダー　無農薬",
     "price": "税込￥1,300",
     "description": "冷え対策に最適、毎日の食事に加えるだけで温活効果",
     "usage": "お鍋、野菜炒め、お肉料理の仕上げ、チャイやミルクティーのスパイスとして使用可能",
@@ -192,5 +192,53 @@
     "usage": "ごはんにふりかける、スープやおやつ作りに使用",
     "image_path": "src/かつおふりかけペットフード.webp",
     "audio_paths": "src/jp_voice/ペットフード愛犬愛猫用無添加かつおふりかけ30g_jp.mp3"
+  },
+  {
+    "name": "和歌山県産 はっさくピール",
+    "price": "税込￥380",
+    "description": "爽やかな香りの八朔ピールにお砂糖をからめたお菓子。",
+    "usage": "紅茶に入れてたべるのも合います",
+    "image_path": "src/はっさくピール.jpg",
+    "audio_paths": "src/jp_voice/はっさくピール.mp3"
+  },
+  {
+    "name": "ソースを入れて和風出汁をつくる瓶：鰹節の味",
+    "price": "税込￥1,500",
+    "description": "お好みの調味料を注ぐだけで、日本の和風の味が出る出汁瓶。",
+    "usage": "家にある醤油、ぽん酢、ソースなどお好みの調味料を入れておくと1日～5日くらいで、出汁がでます。",
+    "image_path": "src/鰹節.webp",
+    "audio_paths": "src/jp_voice/鰹節.mp3"
+  },
+  {
+    "name": "ソースを入れて和風出汁をつくる瓶：宗田節の味",
+    "price": "税込￥1,500",
+    "description": "お好みの調味料を注ぐだけで、日本の和風の味が出る出汁瓶。",
+    "usage": "家にある醤油、ぽん酢、ソースなどお好みの調味料を入れておくと1日～5日くらいで、出汁がでます。",
+    "image_path": "src/宗田節.webp",
+    "audio_paths": "src/jp_voice/宗田節.mp3"
+  },
+  {
+    "name": "和歌山産　ドライフルーツ　柿",
+    "price": "税込￥500",
+    "description": "フルーツの旨味がぎゅっと砂糖なしのドライフルーツ",
+    "usage": "一口サイズなので食べやすい",
+    "image_path": "src/柿.png",
+    "audio_paths": "src/jp_voice/柿.mp3"
+  },
+  {
+    "name": "和歌山産　ドライフルーツ　ミカン",
+    "price": "税込￥500",
+    "description": "フルーツの旨味がぎゅっと砂糖なしのドライフルーツ",
+    "usage": "紅茶に入れて香りを楽しむ",
+    "image_path": "src/ミカン.png",
+    "audio_paths": "src/jp_voice/ミカン.mp3"
+  },
+  {
+    "name": "和歌山産　ドライフルーツ　キウイフルーツ",
+    "price": "税込￥500",
+    "description": "フルーツの旨味がぎゅっと砂糖なしのドライフルーツ",
+    "usage": "ヨーグルトやサラダのトッピングに",
+    "image_path": "src/キウイ.png",
+    "audio_paths": "src/jp_voice/キウイフルーツ.mp3"
   }
 ]
